@@ -1,0 +1,3 @@
+[submodule "Gaming-Club"]
+	path = Gaming-Club
+	url = git@github.com:sudeepbanerjeechopra/Gaming-Club.git
